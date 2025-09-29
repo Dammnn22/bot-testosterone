@@ -1,0 +1,70 @@
+# Systemd service file for Telegram Bot Security Improvements
+# Copy this file to /etc/systemd/system/telegram-bot.service
+
+[Unit]
+Description=Telegram Bot Security Improvements
+Documentation=https://github.com/your-repo/telegram-bot-security
+After=network.target network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=telegram-bot
+Group=telegram-bot
+WorkingDirectory=/opt/telegram-bot
+Environment=PYTHONPATH=/opt/telegram-bot
+EnvironmentFile=/etc/telegram-bot/.env
+
+# Main process
+ExecStart=/opt/telegram-bot/venv/bin/python main.py
+ExecReload=/bin/kill -HUP $MAINPID
+
+# Restart configuration
+Restart=always
+RestartSec=10
+StartLimitInterval=60
+StartLimitBurst=3
+
+# Process management
+KillMode=mixed
+KillSignal=SIGTERM
+TimeoutStopSec=30
+
+# Output configuration
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=telegram-bot
+
+# Security settings
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictRealtime=true
+RestrictSUIDSGID=true
+LockPersonality=true
+MemoryDenyWriteExecute=true
+
+# File system access
+ReadWritePaths=/var/lib/telegram-bot /var/log/telegram-bot /tmp
+ReadOnlyPaths=/opt/telegram-bot
+
+# Network access
+PrivateNetwork=false
+RestrictAddressFamilies=AF_INET AF_INET6
+
+# Capabilities
+CapabilityBoundingSet=
+AmbientCapabilities=
+
+# Resource limits
+LimitNOFILE=65536
+LimitNPROC=4096
+MemoryMax=512M
+CPUQuota=50%
+
+[Install]
+WantedBy=multi-user.target

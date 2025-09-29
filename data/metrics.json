@@ -1,0 +1,177 @@
+{
+  "conversations": {
+    "conv_1758214411438_23a87706": {
+      "conversation_id": "conv_1758214411438_23a87706",
+      "started_at": "2025-09-18T13:53:31.438234",
+      "completed_at": "2025-09-18T13:53:31.836946",
+      "duration": 0,
+      "questions_answered": 8,
+      "errors_encountered": [
+        "validation_error"
+      ],
+      "abandonment_point": null
+    },
+    "conv_1758214411939_7c03a2be": {
+      "conversation_id": "conv_1758214411939_7c03a2be",
+      "started_at": "2025-09-18T13:53:31.939700",
+      "completed_at": "2025-09-18T13:53:32.337489",
+      "duration": 0,
+      "questions_answered": 8,
+      "errors_encountered": [
+        "validation_error"
+      ],
+      "abandonment_point": null
+    },
+    "conv_1758214412440_bcc7ea0d": {
+      "conversation_id": "conv_1758214412440_bcc7ea0d",
+      "started_at": "2025-09-18T13:53:32.440633",
+      "completed_at": null,
+      "duration": null,
+      "questions_answered": 8,
+      "errors_encountered": [
+        "validation_error"
+      ],
+      "abandonment_point": "lifestyle_questions"
+    }
+  },
+  "question_responses": [
+    {
+      "question_type": "age_question",
+      "response_time": 0.10034060478210449,
+      "timestamp": "2025-09-18T13:53:31.540287"
+    },
+    {
+      "question_type": "body_fat_question",
+      "response_time": 0.050243377685546875,
+      "timestamp": "2025-09-18T13:53:31.592214"
+    },
+    {
+      "question_type": "body_fat_question",
+      "response_time": 0.08050704002380371,
+      "timestamp": "2025-09-18T13:53:31.674845"
+    },
+    {
+      "question_type": "adam_q1",
+      "response_time": 0.030239343643188477,
+      "timestamp": "2025-09-18T13:53:31.706250"
+    },
+    {
+      "question_type": "adam_q2",
+      "response_time": 0.030332565307617188,
+      "timestamp": "2025-09-18T13:53:31.738346"
+    },
+    {
+      "question_type": "adam_q3",
+      "response_time": 0.030398845672607422,
+      "timestamp": "2025-09-18T13:53:31.771017"
+    },
+    {
+      "question_type": "adam_q4",
+      "response_time": 0.030601024627685547,
+      "timestamp": "2025-09-18T13:53:31.803619"
+    },
+    {
+      "question_type": "adam_q5",
+      "response_time": 0.030156612396240234,
+      "timestamp": "2025-09-18T13:53:31.835921"
+    },
+    {
+      "question_type": "age_question",
+      "response_time": 0.10045027732849121,
+      "timestamp": "2025-09-18T13:53:32.041870"
+    },
+    {
+      "question_type": "body_fat_question",
+      "response_time": 0.050289154052734375,
+      "timestamp": "2025-09-18T13:53:32.093249"
+    },
+    {
+      "question_type": "body_fat_question",
+      "response_time": 0.08019852638244629,
+      "timestamp": "2025-09-18T13:53:32.175368"
+    },
+    {
+      "question_type": "adam_q1",
+      "response_time": 0.030203819274902344,
+      "timestamp": "2025-09-18T13:53:32.207001"
+    },
+    {
+      "question_type": "adam_q2",
+      "response_time": 0.030382633209228516,
+      "timestamp": "2025-09-18T13:53:32.238746"
+    },
+    {
+      "question_type": "adam_q3",
+      "response_time": 0.030318737030029297,
+      "timestamp": "2025-09-18T13:53:32.271701"
+    },
+    {
+      "question_type": "adam_q4",
+      "response_time": 0.030325651168823242,
+      "timestamp": "2025-09-18T13:53:32.303987"
+    },
+    {
+      "question_type": "adam_q5",
+      "response_time": 0.030180692672729492,
+      "timestamp": "2025-09-18T13:53:32.336168"
+    },
+    {
+      "question_type": "age_question",
+      "response_time": 0.10042285919189453,
+      "timestamp": "2025-09-18T13:53:32.543220"
+    },
+    {
+      "question_type": "body_fat_question",
+      "response_time": 0.05019688606262207,
+      "timestamp": "2025-09-18T13:53:32.595099"
+    },
+    {
+      "question_type": "body_fat_question",
+      "response_time": 0.08059239387512207,
+      "timestamp": "2025-09-18T13:53:32.678006"
+    },
+    {
+      "question_type": "adam_q1",
+      "response_time": 0.03031468391418457,
+      "timestamp": "2025-09-18T13:53:32.709556"
+    },
+    {
+      "question_type": "adam_q2",
+      "response_time": 0.030480384826660156,
+      "timestamp": "2025-09-18T13:53:32.741334"
+    },
+    {
+      "question_type": "adam_q3",
+      "response_time": 0.030312299728393555,
+      "timestamp": "2025-09-18T13:53:32.773693"
+    },
+    {
+      "question_type": "adam_q4",
+      "response_time": 0.03054642677307129,
+      "timestamp": "2025-09-18T13:53:32.806518"
+    },
+    {
+      "question_type": "adam_q5",
+      "response_time": 0.030181407928466797,
+      "timestamp": "2025-09-18T13:53:32.839202"
+    }
+  ],
+  "errors": [
+    {
+      "error_type": "validation_error",
+      "timestamp": "2025-09-18T13:53:31.593426",
+      "context": "Invalid response for body_fat_question"
+    },
+    {
+      "error_type": "validation_error",
+      "timestamp": "2025-09-18T13:53:32.094278",
+      "context": "Invalid response for body_fat_question"
+    },
+    {
+      "error_type": "validation_error",
+      "timestamp": "2025-09-18T13:53:32.596341",
+      "context": "Invalid response for body_fat_question"
+    }
+  ],
+  "last_updated": "2025-09-18T13:53:32.842189"
+}

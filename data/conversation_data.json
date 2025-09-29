@@ -1,0 +1,2067 @@
+{
+  "12345": {
+    "user_id": 12345,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      false
+    ],
+    "ams_score": 0,
+    "ams_question_index": 0,
+    "lifestyle_answers": {},
+    "lifestyle_question_index": 0,
+    "start_time": "2025-09-18T13:47:10.451077",
+    "last_activity": "2025-09-18T13:47:51.693256"
+  },
+  "0": {
+    "user_id": 0,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.605016",
+    "last_activity": "2025-09-18T15:12:21.905223"
+  },
+  "1": {
+    "user_id": 1,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.605443",
+    "last_activity": "2025-09-18T15:12:21.806968"
+  },
+  "2": {
+    "user_id": 2,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.606104",
+    "last_activity": "2025-09-18T15:12:21.942458"
+  },
+  "3": {
+    "user_id": 3,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.606630",
+    "last_activity": "2025-09-18T15:12:21.668825"
+  },
+  "4": {
+    "user_id": 4,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.607304",
+    "last_activity": "2025-09-18T15:12:22.193029"
+  },
+  "5": {
+    "user_id": 5,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.610020",
+    "last_activity": "2025-09-18T15:12:22.187268"
+  },
+  "6": {
+    "user_id": 6,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.615125",
+    "last_activity": "2025-09-18T15:12:22.132904"
+  },
+  "7": {
+    "user_id": 7,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.618017",
+    "last_activity": "2025-09-18T15:12:22.306363"
+  },
+  "8": {
+    "user_id": 8,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.622082",
+    "last_activity": "2025-09-18T15:12:22.027501"
+  },
+  "9": {
+    "user_id": 9,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.624169",
+    "last_activity": "2025-09-18T15:12:22.129543"
+  },
+  "10": {
+    "user_id": 10,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.635631",
+    "last_activity": "2025-09-18T15:12:22.232085"
+  },
+  "11": {
+    "user_id": 11,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.639916",
+    "last_activity": "2025-09-18T15:12:22.216913"
+  },
+  "12": {
+    "user_id": 12,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.643714",
+    "last_activity": "2025-09-18T15:12:22.525162"
+  },
+  "13": {
+    "user_id": 13,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.657724",
+    "last_activity": "2025-09-18T15:12:22.333852"
+  },
+  "16": {
+    "user_id": 16,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.667597",
+    "last_activity": "2025-09-18T15:12:22.359567"
+  },
+  "14": {
+    "user_id": 14,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.668554",
+    "last_activity": "2025-09-18T15:12:22.340241"
+  },
+  "15": {
+    "user_id": 15,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.669330",
+    "last_activity": "2025-09-18T15:12:22.249964"
+  },
+  "18": {
+    "user_id": 18,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.676032",
+    "last_activity": "2025-09-18T15:12:22.448580"
+  },
+  "19": {
+    "user_id": 19,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.676718",
+    "last_activity": "2025-09-18T15:12:22.616003"
+  },
+  "17": {
+    "user_id": 17,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.682215",
+    "last_activity": "2025-09-18T15:12:22.799977"
+  },
+  "21": {
+    "user_id": 21,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.685130",
+    "last_activity": "2025-09-18T15:12:22.678667"
+  },
+  "20": {
+    "user_id": 20,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.688795",
+    "last_activity": "2025-09-18T15:12:22.660817"
+  },
+  "23": {
+    "user_id": 23,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.705836",
+    "last_activity": "2025-09-18T15:12:22.838709"
+  },
+  "22": {
+    "user_id": 22,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.706351",
+    "last_activity": "2025-09-18T15:12:22.957771"
+  },
+  "24": {
+    "user_id": 24,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.706913",
+    "last_activity": "2025-09-18T15:12:22.650141"
+  },
+  "26": {
+    "user_id": 26,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.719514",
+    "last_activity": "2025-09-18T15:12:22.626189"
+  },
+  "25": {
+    "user_id": 25,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.727658",
+    "last_activity": "2025-09-18T15:12:22.867470"
+  },
+  "27": {
+    "user_id": 27,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.736685",
+    "last_activity": "2025-09-18T15:12:23.158030"
+  },
+  "28": {
+    "user_id": 28,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.737656",
+    "last_activity": "2025-09-18T15:12:22.757024"
+  },
+  "29": {
+    "user_id": 29,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.741615",
+    "last_activity": "2025-09-18T15:12:22.921857"
+  },
+  "30": {
+    "user_id": 30,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.754841",
+    "last_activity": "2025-09-18T15:12:22.978124"
+  },
+  "31": {
+    "user_id": 31,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.756425",
+    "last_activity": "2025-09-18T15:12:23.150974"
+  },
+  "34": {
+    "user_id": 34,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.799943",
+    "last_activity": "2025-09-18T15:12:23.490388"
+  },
+  "32": {
+    "user_id": 32,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.801612",
+    "last_activity": "2025-09-18T15:12:23.180437"
+  },
+  "33": {
+    "user_id": 33,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.802432",
+    "last_activity": "2025-09-18T15:12:23.062331"
+  },
+  "37": {
+    "user_id": 37,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.824003",
+    "last_activity": "2025-09-18T15:12:23.173568"
+  },
+  "36": {
+    "user_id": 36,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.825399",
+    "last_activity": "2025-09-18T15:12:23.574421"
+  },
+  "35": {
+    "user_id": 35,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.826899",
+    "last_activity": "2025-09-18T15:12:22.984808"
+  },
+  "38": {
+    "user_id": 38,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.844188",
+    "last_activity": "2025-09-18T15:12:23.361164"
+  },
+  "40": {
+    "user_id": 40,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.873458",
+    "last_activity": "2025-09-18T15:12:23.153601"
+  },
+  "41": {
+    "user_id": 41,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.891293",
+    "last_activity": "2025-09-18T15:12:23.200696"
+  },
+  "39": {
+    "user_id": 39,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.892316",
+    "last_activity": "2025-09-18T15:12:23.241196"
+  },
+  "42": {
+    "user_id": 42,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.910920",
+    "last_activity": "2025-09-18T15:12:23.496844"
+  },
+  "43": {
+    "user_id": 43,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.921769",
+    "last_activity": "2025-09-18T15:12:23.370461"
+  },
+  "44": {
+    "user_id": 44,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.923598",
+    "last_activity": "2025-09-18T15:12:23.170783"
+  },
+  "45": {
+    "user_id": 45,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.945692",
+    "last_activity": "2025-09-18T15:12:23.367164"
+  },
+  "48": {
+    "user_id": 48,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.971548",
+    "last_activity": "2025-09-18T15:12:23.768224"
+  },
+  "46": {
+    "user_id": 46,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.981133",
+    "last_activity": "2025-09-18T15:12:23.589029"
+  },
+  "49": {
+    "user_id": 49,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.985897",
+    "last_activity": "2025-09-18T15:12:23.735817"
+  },
+  "47": {
+    "user_id": 47,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:24.990426",
+    "last_activity": "2025-09-18T15:12:23.524649"
+  },
+  "50": {
+    "user_id": 50,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.010316",
+    "last_activity": "2025-09-18T15:12:23.986166"
+  },
+  "51": {
+    "user_id": 51,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.057990",
+    "last_activity": "2025-09-18T15:12:23.863139"
+  },
+  "52": {
+    "user_id": 52,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.060256",
+    "last_activity": "2025-09-18T15:12:23.771974"
+  },
+  "53": {
+    "user_id": 53,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.064727",
+    "last_activity": "2025-09-18T15:12:24.006807"
+  },
+  "54": {
+    "user_id": 54,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.101052",
+    "last_activity": "2025-09-18T15:12:23.836182"
+  },
+  "55": {
+    "user_id": 55,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.119927",
+    "last_activity": "2025-09-18T15:12:24.126181"
+  },
+  "56": {
+    "user_id": 56,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.138834",
+    "last_activity": "2025-09-18T15:12:24.121269"
+  },
+  "57": {
+    "user_id": 57,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.184879",
+    "last_activity": "2025-09-18T15:12:24.239512"
+  },
+  "58": {
+    "user_id": 58,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.190322",
+    "last_activity": "2025-09-18T15:12:24.040464"
+  },
+  "59": {
+    "user_id": 59,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.219940",
+    "last_activity": "2025-09-18T15:12:24.136632"
+  },
+  "60": {
+    "user_id": 60,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.235321",
+    "last_activity": "2025-09-18T15:12:23.896496"
+  },
+  "61": {
+    "user_id": 61,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.285680",
+    "last_activity": "2025-09-18T15:12:24.332016"
+  },
+  "62": {
+    "user_id": 62,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.290175",
+    "last_activity": "2025-09-18T15:12:24.386309"
+  },
+  "63": {
+    "user_id": 63,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.320945",
+    "last_activity": "2025-09-18T15:12:24.209771"
+  },
+  "64": {
+    "user_id": 64,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.349208",
+    "last_activity": "2025-09-18T15:12:24.095201"
+  },
+  "65": {
+    "user_id": 65,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.369800",
+    "last_activity": "2025-09-18T15:12:24.265559"
+  },
+  "66": {
+    "user_id": 66,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.371712",
+    "last_activity": "2025-09-18T15:12:24.190647"
+  },
+  "67": {
+    "user_id": 67,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.375066",
+    "last_activity": "2025-09-18T15:12:24.336904"
+  },
+  "68": {
+    "user_id": 68,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.378100",
+    "last_activity": "2025-09-18T15:12:24.625071"
+  },
+  "69": {
+    "user_id": 69,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.381914",
+    "last_activity": "2025-09-18T15:12:24.553727"
+  },
+  "70": {
+    "user_id": 70,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.393421",
+    "last_activity": "2025-09-18T15:12:24.591623"
+  },
+  "71": {
+    "user_id": 71,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.405633",
+    "last_activity": "2025-09-18T15:12:24.318909"
+  },
+  "72": {
+    "user_id": 72,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.418140",
+    "last_activity": "2025-09-18T15:12:24.767297"
+  },
+  "73": {
+    "user_id": 73,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.451914",
+    "last_activity": "2025-09-18T15:12:24.671602"
+  },
+  "74": {
+    "user_id": 74,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.492999",
+    "last_activity": "2025-09-18T15:12:24.325577"
+  },
+  "75": {
+    "user_id": 75,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.599800",
+    "last_activity": "2025-09-18T15:12:24.569220"
+  },
+  "76": {
+    "user_id": 76,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.601860",
+    "last_activity": "2025-09-18T15:12:24.858227"
+  },
+  "77": {
+    "user_id": 77,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.616476",
+    "last_activity": "2025-09-18T15:12:24.872947"
+  },
+  "78": {
+    "user_id": 78,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.634835",
+    "last_activity": "2025-09-18T15:12:24.718568"
+  },
+  "79": {
+    "user_id": 79,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.666651",
+    "last_activity": "2025-09-18T15:12:24.805820"
+  },
+  "80": {
+    "user_id": 80,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.672594",
+    "last_activity": "2025-09-18T15:12:24.971503"
+  },
+  "81": {
+    "user_id": 81,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.679436",
+    "last_activity": "2025-09-18T15:12:24.774936"
+  },
+  "82": {
+    "user_id": 82,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.721678",
+    "last_activity": "2025-09-18T15:12:24.955594"
+  },
+  "83": {
+    "user_id": 83,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.737589",
+    "last_activity": "2025-09-18T15:12:24.966569"
+  },
+  "84": {
+    "user_id": 84,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.745481",
+    "last_activity": "2025-09-18T15:12:25.109130"
+  },
+  "85": {
+    "user_id": 85,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.964501",
+    "last_activity": "2025-09-18T15:12:24.921952"
+  },
+  "86": {
+    "user_id": 86,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:25.968521",
+    "last_activity": "2025-09-18T15:12:25.161905"
+  },
+  "87": {
+    "user_id": 87,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.017985",
+    "last_activity": "2025-09-18T15:12:25.048071"
+  },
+  "88": {
+    "user_id": 88,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.044030",
+    "last_activity": "2025-09-18T15:12:25.040932"
+  },
+  "89": {
+    "user_id": 89,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.050330",
+    "last_activity": "2025-09-18T15:12:25.063053"
+  },
+  "90": {
+    "user_id": 90,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.058121",
+    "last_activity": "2025-09-18T15:12:25.105459"
+  },
+  "91": {
+    "user_id": 91,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.075336",
+    "last_activity": "2025-09-18T15:12:25.187636"
+  },
+  "92": {
+    "user_id": 92,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.080208",
+    "last_activity": "2025-09-18T15:12:25.207929"
+  },
+  "93": {
+    "user_id": 93,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.086092",
+    "last_activity": "2025-09-18T15:12:25.119059"
+  },
+  "94": {
+    "user_id": 94,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.113301",
+    "last_activity": "2025-09-18T15:12:25.093835"
+  },
+  "95": {
+    "user_id": 95,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.132721",
+    "last_activity": "2025-09-18T15:12:25.150600"
+  },
+  "96": {
+    "user_id": 96,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.169007",
+    "last_activity": "2025-09-18T15:12:25.171833"
+  },
+  "97": {
+    "user_id": 97,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.171770",
+    "last_activity": "2025-09-18T15:12:25.175172"
+  },
+  "98": {
+    "user_id": 98,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.237156",
+    "last_activity": "2025-09-18T15:12:25.193876"
+  },
+  "99": {
+    "user_id": 99,
+    "current_state": "adam",
+    "adam_answers": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "ams_score": 32,
+    "ams_question_index": 16,
+    "lifestyle_answers": {
+      "q0": 0
+    },
+    "lifestyle_question_index": 6,
+    "start_time": "2025-09-18T14:49:26.266991",
+    "last_activity": "2025-09-18T15:12:25.216336"
+  },
+  "8144182951": {
+    "user_id": 8144182951,
+    "current_state": "results",
+    "adam_answers": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true
+    ],
+    "ams_score": 61,
+    "ams_question_index": 17,
+    "lifestyle_answers": {
+      "q0": 22,
+      "q1": 5,
+      "q2": 2,
+      "q3": 3,
+      "q4": 0,
+      "q5": false
+    },
+    "lifestyle_question_index": 5,
+    "start_time": "2025-09-18T15:36:59.696033",
+    "last_activity": "2025-09-18T15:44:17.171464"
+  },
+  "1861057036": {
+    "user_id": 1861057036,
+    "current_state": "ams",
+    "adam_answers": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    "ams_score": 20,
+    "ams_question_index": 8,
+    "lifestyle_answers": {},
+    "lifestyle_question_index": 0,
+    "start_time": "2025-09-18T16:30:56.899482",
+    "last_activity": "2025-09-18T16:31:53.008378"
+  }
+}

@@ -1,0 +1,96 @@
+version: '3.8'
+
+services:
+  telegram-bot:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    container_name: telegram-bot-security
+    restart: unless-stopped
+    
+    # Environment variables
+    environment:
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+      - DEBUG_MODE=${DEBUG_MODE:-false}
+      - RATE_LIMIT_PER_MINUTE=${RATE_LIMIT_PER_MINUTE:-10}
+      - MAX_RETRIES=${MAX_RETRIES:-3}
+      - TIMEOUT_MINUTES=${TIMEOUT_MINUTES:-30}
+      - DATABASE_FILE_PATH=data/bot_data.json
+      - LOG_FILE_PATH=logs/bot.log
+    
+    # Volume mounts for persistent data
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./backups:/app/backups
+      - ./config:/app/config:ro
+    
+    # Network configuration
+    networks:
+      - bot-network
+    
+    # Security options
+    security_opt:
+      - no-new-privileges:true
+    
+    # Resource limits
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+          cpus: '0.5'
+        reservations:
+          memory: 256M
+          cpus: '0.25'
+    
+    # Health check
+    healthcheck:
+      test: ["CMD", "python", "-c", "import sys; sys.exit(0)"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    
+    # Logging configuration
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  # Optional: Monitoring service
+  monitoring:
+    build:
+      context: .
+      dockerfile: Dockerfile.monitoring
+    container_name: telegram-bot-monitoring
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      - FLASK_ENV=production
+    volumes:
+      - ./logs:/app/logs:ro
+      - ./data:/app/data:ro
+    networks:
+      - bot-network
+    depends_on:
+      - telegram-bot
+    profiles:
+      - monitoring
+
+networks:
+  bot-network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16
+
+volumes:
+  bot-data:
+    driver: local
+  bot-logs:
+    driver: local
+  bot-backups:
+    driver: local
