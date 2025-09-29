@@ -37,12 +37,8 @@ RUN mkdir -p data logs backups config && \
 # Switch to non-root user
 USER appuser
 
-# Expose port for health checks (if needed)
-EXPOSE 8080
-
-# Health check
-HEALTHCHECK --interval=30s --timeout=10s --start-period=30s --retries=3 \
-    CMD python -c "import sys; sys.exit(0)" || exit 1
+# No port exposure needed for Telegram bot
+# HEALTHCHECK disabled for background service
 
 # Run the application
 CMD ["python", "main.py"]
